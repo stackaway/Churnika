@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Churnika Mundas",
-  title: "Front-End Developer & Tech Enthusiast",
+  title: "Tech Enthusiast",
   email: "",
   gitHub: "https://github.com/stackaway",
   linkedIn: "www.linkedin.com/in/churnika-mundas-64767b246",
