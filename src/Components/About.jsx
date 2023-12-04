@@ -32,7 +32,11 @@ const description =
  */
 const skillsList = [
   "Front-end design",
-  "Cloud computing"
+  "Cloud computing",
+  // "Cyber Securit",
+  // "Focus group testing",
+  // "Mobile user interfaces",
+  // "Graphic design",
 ];
 
 /**
