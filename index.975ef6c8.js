@@ -27087,8 +27087,8 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "Churnika S Mundas",
-    title: "Front-End Developer and Tech Enthusiast",
+    name: "Churnika Mundas",
+    title: "Tech Enthusiast",
     email: "",
     gitHub: "https://github.com/stackaway",
     linkedIn: "www.linkedin.com/in/churnika-mundas-64767b246",
@@ -27187,11 +27187,7 @@ const imageAltText = "purple and blue abstract background";
  * passionate about, or enjoy,
  */ const skillsList = [
     "Front-end design",
-    "Cloud computing",
-    "",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design", 
+    "Cloud computing", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
